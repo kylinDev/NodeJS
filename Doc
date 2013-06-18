@@ -1,0 +1,15 @@
+OS:ubuntu13.04
+
+一：环境搭建
+  1:到www.nodejs.org下载nodejs
+  2: 解压后，进入nodejs目录,执行 
+   ./configure --prefix=/usr/local/node
+   make  //编译
+   sudo make install  //安装
+二 ： 安装npm
+   1:curl http://npmjs.org/install.sh | sh
+三 ：安装express
+   1:npm install -gd express
+
+
+  
