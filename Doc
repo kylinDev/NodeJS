@@ -1,6 +1,7 @@
 OS:ubuntu13.04
 
 一：环境搭建
+  0:sudo apt-get install g++  libssl-dev
   1:到www.nodejs.org下载nodejs
   2: 解压后，进入nodejs目录,执行 
    ./configure --prefix=/usr/local/node
